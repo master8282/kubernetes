@@ -1,4 +1,3 @@
-cat ~/kubeconfigs/kubeconf_generator.sh
 #!/bin/bash
 
 POSITIONAL_ARGS=()
